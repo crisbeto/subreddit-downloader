@@ -1,0 +1,20 @@
+{
+  "name": "subreddit-downloader",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crisbeto/subreddit-downloader.git"
+  },
+  "version": "1.0.0",
+  "description": "Downloads all available pages of a subreddit",
+  "main": "subreddit.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "prompt": "^0.2.14",
+    "q": "^1.4.1",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {},
+  "author": "crisbeto",
+  "homepage": "https://github.com/crisbeto/unsplash-scrape",
+  "license": "MIT"
+}
